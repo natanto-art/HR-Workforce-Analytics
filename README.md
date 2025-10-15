@@ -7,7 +7,13 @@ Tools Used
 - GitHub
 
 Project Overview:
-The project analyzes employee data to provide actionable insights for HR decision-making. From a real-world HR dataset, the project explores workforce composition, compensation trends, and employee demographics. The goal is to help organizations get more insights into their workforce, optimize resource use, and identify potential areas for improvement in managing employees. Employees in dataset 1,471
+The project analyzes employee data to provide actionable insights for HR decision-making. From a real-world HR dataset, the project explores workforce composition, compensation trends, and employee demographics. The goal is to help organizations get more insights into their workforce, optimize resource use, and identify potential areas for improvement in managing employees. 
+
+Dataset Information:
+
+Source: Kaggle – IBM HR Analytics Employee Attrition & Performance Dataset
+
+
 
 Data Summary:
 The information includes employee-level data covering:
