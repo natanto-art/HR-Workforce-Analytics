@@ -17,7 +17,7 @@ The information includes employee-level data covering:
 - Performance Ratings, Work-Life Balance
 
 Key Questions & Insights
-1.) Workforce Composition
+1.) How many employees are in each job role?
 Question: Employees by job role?
 Insight:
 Sales Executives and Research Scientists account for the largest groups in the workforce.
@@ -31,7 +31,7 @@ Sales Executives and Research Scientists account for the largest groups in the w
 ----
 
 2.)Compensation Summary
-Question: What is the average monthly compensation by job title?
+Question: What’s the average monthly compensation for a job role?
 Discovery:
 Directors and Managers receive the highest average monthly compensation, while newcomers such as Sales Representatives earn lesser amounts.
 | Job Title | Avg. Monthly Pay
@@ -39,7 +39,7 @@ Directors and Managers receive the highest average monthly compensation, while n
 | Research Director | $15,081
 | Manager (R&D) | $15,289
 | Sales Representative | $14,278
-|. | .
+
 
 3: Age Demographics
 Question What is the average age by job role?
