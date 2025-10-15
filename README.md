@@ -61,6 +61,8 @@ GitHub Version control and portfolio hosting
 
 Tableau Dashboard
 
+<img width="1447" height="788" alt="Screenshot 2025-10-15 124407" src="https://github.com/user-attachments/assets/e8c1fdf6-0624-415f-be91-53c3d2d5ae23" />
+
 Conclusion
 This HR analytics project provides a big-picture view of workforce distribution, compensation plan, and employee profile.
 It demonstrates analysis expertise in data preparation, visualization, and report generation that can be utilized towards a career such as HR Data Analystor
