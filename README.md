@@ -68,5 +68,5 @@ It demonstrates analysis expertise in data preparation, visualization, and repor
 Author
 Natalya Antonetty
 Data Analyst
-???? [LinkedIn Profile](https://linkedin.com)
+www.linkedin.com/in/natalya-antonetty-495771374
 natalyaantonetty@gmail.com
