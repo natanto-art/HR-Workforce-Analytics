@@ -18,6 +18,7 @@ The information includes employee-level data covering:
 
 Key Questions & Insights
 1.) How many employees are in each job role?
+
 Question: Employees by job role?
 Insight:
 Sales Executives and Research Scientists account for the largest groups in the workforce.
@@ -31,6 +32,7 @@ Sales Executives and Research Scientists account for the largest groups in the w
 ----
 
 2.)Compensation Summary
+
 Question: What’s the average monthly compensation for a job role?
 Discovery:
 Directors and Managers receive the highest average monthly compensation, while newcomers such as Sales Representatives earn lesser amounts.
@@ -43,6 +45,7 @@ Directors and Managers receive the highest average monthly compensation, while n
 
 3: Age Demographics
 Question What is the average age by job role?
+
 Most of the employees are mid-career professionals, and the overall average age is 36
 | Job Position | Avg. Age |
 |--------------|-----------|
